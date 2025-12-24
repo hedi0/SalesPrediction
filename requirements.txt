@@ -1,0 +1,7 @@
+pyspark==4.0.1
+pandas==2.3.3
+numpy==2.3.5
+pymongo==4.15.5
+matplotlib==3.10.8
+seaborn==0.13.2
+python-dateutil==2.9.0.post0
