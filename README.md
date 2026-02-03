@@ -168,9 +168,9 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 
 This project is licensed under  **Apache License 2.0**
 
-Youre free to:
-*   **Sre** — copy and redistribe the material in any medium or format.
-*   **Adapt* — remix, transformand buiupon the material for any purpo, even commerci
-Underhe
-*   **Attriton** — Yo must give appprie credit, provdinkto the lie  ade. You m  ret censor endo you you
-*   **No aditiestriction** — Yo apply legterm
+Your free to:
+*   **Sre** —coy nd redistri the material any mediumr format.
+*   **Adap — remix,transforand buiupon the material fr any purpo, even commerci
+Und
+*   *ttriton —  must give aprie credt, provdinkto the ie ade. You m  ret censor endo yo yu
+*   **No adtiestriction* — Yo applegterm
