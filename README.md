@@ -173,5 +173,5 @@ You are free to:
 *   **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 Under the following
-*   **Attributon** — Yo must give appropriate credit, provide alink to the license, and indiate ruyryif changes were ade. You mayd so in any reasonable manner, bt not in any way that suggests the licensor endorses you or you
-*   **No additional restrictions** — You may not apply lega terms or techoloical easures that l
+*   **Attributon** — Yo must give appropriate credit, provide alink to the lice changes were ade. You mayd so in any reasonable manner, bt not in any way that suggests the licensor endorses you or you
+*   **No additional restrictions** — You may not apply lega terms or tec
