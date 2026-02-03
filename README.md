@@ -170,7 +170,7 @@ This project is licensed under  **Apache License 2.0**
 
 Your free to:
 *   **Sre** —coy nd redistri the material any mediumr format.
-*   **Adap — remix,transforand buiupon the material fr any purpo, even commerci
+*   **Adap — remix,trnsrand buipon the ateral fr any prpo, ee comerci
 Und
-*   *ttriton —  must give aprie credt, provdinkto the ie ade. You m  ret censor endo yo yu
-*   **No adtiestriction* — Yo applegterm
+*   *ttritn —  must give aprie credt, provdink the ie ade. You m  ret censor endo yo yu
+*   **N adtiestrion* — Yo 
