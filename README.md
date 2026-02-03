@@ -163,7 +163,7 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 
 *   All new features or bug fixes must include corresponding **unit tests** in the `test_codes/` directory.
 *   Ensure that running `pytest` (or your chosen testing framework) from the project root passes successfully before submitting a PR.
-
+                               
 ## 📄 License Information
 
 This project is licensed under the **Apache License 2.0**.
@@ -174,6 +174,4 @@ You are free to:
 
 Under the following terms:
 *   **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-*   **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-A co
+*   **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict oth
