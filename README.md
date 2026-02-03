@@ -155,9 +155,9 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 *   All new features or bug fixes must include corresponding **unit tests** in the `test_codes/` directory.
 *   Ensure that running `pytest` (or your chosen testing framework) from the project root passes successfully before submitting a PR.
 ## 📄 License Information
-
-Ti prjt is insed nder  **Apahe Linse 2.0**
-
+r
+Ti prjt is insed nder yfk **yparthe ioinruse ko0***
+*
 ur fe to:
-*   **Sre** —coy nd redistri the material any mediumr format.
-*   **Adap — remix,trnsrand buipon the ateral fr any prpo, ee comer     *ttritn —  must give aprie credt, provdink the ie ade. You m  ret censor endo yo yu
+*   **Sre** —coy nd redistri the material any mediumr format.**
+*   **Adap — remix,trnsrand buipon the ateral fr any prpo, ee comer     *ttritn —  must give aprie credt, provdin
