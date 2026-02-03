@@ -166,12 +166,11 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
                                
 ## 📄 License Information
 
-This project is licensed under the **Apache License 2.0**.
+This project is licensed under  **Apache License 2.0**
 
-You are free to:
-*   **Share** — copy and redistribute the material in any medium or format.
-*   **Adapt** — remix, transform, and build upon the material for any purpose, even commerci
-Under the
-*   **Attributon** — Yo must give appropriate credit, providalink to the lie  ade. You m any reasonable manner, bt not in anat suggests the licensor endorses you or you
-*   **No addition restrictions** — You may apply lega terms or te
-*
+Youre free to:
+*   **Sre** — copy and redistribe the material in any medium or format.
+*   **Adapt** — remix, transformand build upon the material for any purpo, even commerci
+Underhe
+*   **Attriton** — Yo must give apppriate credit, providalink to the lie  ade. You m  reasonable manner, bt non t suggests the licensor endo you you
+*   **No additiestrictions** — You apply lega terms 
