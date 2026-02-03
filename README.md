@@ -170,8 +170,8 @@ This project is licensed under the **Apache License 2.0**.
 
 You are free to:
 *   **Share** — copy and redistribute the material in any medium or format.
-*   **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-
-Under the following
-*   **Attributon** — Yo must give appropriate credit, provide alink to the lice changes were ade. You mayd so in any reasonable manner, bt not in any way that suggests the licensor endorses you or you
-*   **No additional restrictions** — You may not apply lega terms or tec
+*   **Adapt** — remix, transform, and build upon the material for any purpose, even commerci
+Under the
+*   **Attributon** — Yo must give appropriate credit, providalink to the lie  ade. You m any reasonable manner, bt not in anat suggests the licensor endorses you or you
+*   **No addition restrictions** — You may apply lega terms or te
+*
