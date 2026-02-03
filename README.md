@@ -170,7 +170,7 @@ This project is licensed under  **Apache License 2.0**
 
 Youre free to:
 *   **Sre** — copy and redistribe the material in any medium or format.
-*   **Adapt** — remix, transformand build upon the material for any purpo, even commerci
+*   **Adapt* — remix, transformand buiupon the material for any purpo, even commerci
 Underhe
-*   **Attriton** — Yo must give apppriate credit, providalink to the lie  ade. You m  reasonable manner, bt non t suggests the licensor endo you you
-*   **No additiestrictions** — You apply lega terms 
+*   **Attriton** — Yo must give appprie credit, provdinkto the lie  ade. You m  ret censor endo you you
+*   **No aditiestriction** — Yo apply legterm
