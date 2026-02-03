@@ -178,4 +178,4 @@ Under the following terms:
 
 A copy of the license is available in the [LICENSE](LICENSE) file in this repository.
 
-Copyright (
+C
