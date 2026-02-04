@@ -137,27 +137,23 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 ## 🤝 Contribution Guidelines
 We welcome contributions to the SalesPrediction project! To ensure a smooth collaboration, please follow these guidelines:
 ### Code Style
-*   Adhere to **PEP 8** for Python code. We recommend using linters like `flake8` or `pylint`.
-*   Maintain clear, concise, and well-commented code.
+*   Adhere to **PEP 8** for Python code. We recomn clear, concise, and well-commented code.
 ### Branch Naming Conventions
-*   For new features: `feature/your-feature-name` (e.g., `feature/add-lstm-model`)
-*   For bug fixes: `bugfix/issue-description` (e.g., `bugfix/fix-data-loading-error`)
-*   For documentation updates: `docs/update-readme`
+*   For new features: `feature/youg-error`)
+*   For documentation updates: `doadme`
 ### Pull Request Process
 1.  **Fork** the repository.
 2.  **Create a new branch** from `main` (or `develop` if applicable) using the naming conventions above.
-3.  **Make your changes** and commit them with descriptive messages.
-4.  **Ensure all existing tests pass** and add new tests for your changes if necessary.
-5.  **Open a Pull Request** to the `main` branch of the upstream repository.
-6.  Provide a clear description of your changes and reference any related issues.
+3.  **Make your change* a commit them withdescripages.
+4.  **Ensureextests pass** and add new tests for your changes if necessary.
+5.  **Open a Pull Reques** to the 
+  Provide a clear description of your changes and reference any related issues.
 7.  Your PR will be reviewed, and feedback will be provided.
 ### Testing Requirements
-*   All new features or bug fixes must include corresponding **unit tests** in the `test_codes/` directory.
+*   All new featus or bugixesst include corresponding **unit tests** in the `test_codes/` directory.
 *   Ensure that running `pytest` (or your chosen testing framework) from the project root passes successfully before submitting a PR.
-## 📄 License Information
-r
+## 📄 License Informatio
 Ti prjt is insed nder yfk **yparthe ioinruse ko0***
 *
-ur fe to:
-*   **Sre** —coy nd redistri the material any mediumr format.**
-*   **Adap — remix,trnsrand buipon the ateral fr any prpo, ee comer     *ttritn —  must give aprie credt, provdin
+ur fe to
+*   **r any prpo, ee comer     *tttn —  must give aprie credt, provdin
