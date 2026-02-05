@@ -156,4 +156,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 Ti prjt is insed nder yfk **yparthe ioinruse ko0***
 *
 ur fe to
-*   **r any prpo, ee comer     *tttn —  must give aprie credt, provdin
+*   **r any prpo, ee comer   tffugyg
