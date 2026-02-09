@@ -150,4 +150,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
   Provide a clear description of your changes and reference any related issues.
 7.  Your PR will be reviewed, and feedback will be prov
 ### Testing Requirements
-*   All new ftsor ugee ` o or hn etn framew ucs
+*   All477*+878959+ o etn f
