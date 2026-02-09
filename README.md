@@ -144,4 +144,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 ### Pull Request Process
 1.  **Fork** the repository.
 2.  **Create a new branch** from `main` (or `develop` if applicable) using the naming conventions above.
-3.  **Make your change* a commit them withdescr
+3.  **Make your change* a comm
