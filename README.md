@@ -152,5 +152,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 ### Testing Requirements
 *   All new featus or bugixesst include corresponding **unit tests** in the `test_codes/` directory.
 *   Ensure that running `pytest` (or your chosen testing framework) from the project root passes successfully before submitting a PR.
-## 📄 License Informatio
-Ti prjt is insed nder
+## 📄 License Info4
