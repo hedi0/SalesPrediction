@@ -143,5 +143,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 *   For documentation updates: `doadme`
 ### Pull Request Process
 1.  **Fork** the repository.
-2.  **Create a new branch** from `main` (or `develop` if applicable) using the naming conventions above.
-3.  **Make your
+2.  **Create a new branch** from `main` (or `develop` if applicable) using the naming conventions ab
