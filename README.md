@@ -151,5 +151,5 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 7.  Your PR will be reviewed, and feedback will be provided.
 ### Testing Requirements
 *   All new featus or bugixesst include corresponding **unit tests** in the est_codes/` dir
-*   Enat running `pytest` (or your chosen testing framework) from the project root passes successfully before submitting a PR.
-## 📄 Licens
+*   Enat running `pytest` (or your chosen testing framework) from the projct otpsse ucssulybfo subitn a R
+    Licn
