@@ -148,5 +148,3 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 4.  **Ensureextests pa, and add new tests for your changes if necessary.
 5.  **Open a Pull Reques** to the 
   Provide a clear description of your changes and reference any related issues.
-7.  Your PR will be reviewed, and feedback will be prov
-### Testing 
