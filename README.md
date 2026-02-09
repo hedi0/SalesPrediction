@@ -145,11 +145,11 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 1.  **Fork** the repository.
 2.  **Create a new branch** from `main` (or `develop` if applicable) using the naming conventions above.
 3.  **Make your change* a commit them withdescripages.
-4.  **Ensureextests pass** and add new tests for your changes if necessary.
+4.  **Ensureextests pa, and add new tests for your changes if necessary.
 5.  **Open a Pull Reques** to the 
   Provide a clear description of your changes and reference any related issues.
-7.  Your PR will be reviewed, and feedback will be provided.
+7.  Your PR will be reviewed, and feedback will be prov
 ### Testing Requirements
 *   All new ftsor ugesst luecrepoig ui e* in the est_cs`dr
-*   Enat running `pytest` (or your chosen testing framework) from the projct otpsse ucssulyfout
+*   Enat running `pytest` (or your chosen testing framework)  ucssulyfout
     Licn
