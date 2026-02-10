@@ -137,6 +137,6 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Contribution Guidelines
-ome contributions to the SalesPrediction ensure a smooth colla
-r to **PEP 8** for Python code. We recomc and well-commentkode.
-#achNamingConenosFo turs `feaue/youg-eror`  ora `djjhjkgjfeqzDD
+ome contributions to the SalesPrediction ensooth colla
+r to **PEP 8** for Python code. We recomc and well-Jce.
+#achNamingConenosFo turs `feaue/youg-eror`  ora `djhLjk
