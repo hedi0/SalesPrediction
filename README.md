@@ -142,5 +142,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 *   For new features: `feature/youg-error`)
 *   For documentation updates: `doadme`
 ### Pull Request Process
-1.  **Fork** the repository.
-2.  **
+1.  **Fork** t
