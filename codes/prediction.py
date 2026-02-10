@@ -15,9 +15,11 @@ if 'JAVA_TOOL_OPTIONS' in os.environ:
 if '_JAVA_OPTIONS' in os.environ:
     del os.environ['_JAVA_OPTIONS']
 
-# ============================================================================
-# Import libraries
-# ============================================================================
+"""
+1 - # Import libraries
+"""
+
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, dayofmonth, dayofweek, month
 from pyspark.ml.feature import VectorAssembler
