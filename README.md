@@ -135,5 +135,4 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
     *   Improve documentation for easier onboarding and contribution.
 
 
----------------------------------------------------------------------------
-## Con
+------------------------------------
