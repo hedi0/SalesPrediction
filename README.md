@@ -137,6 +137,6 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Contribution Guidelines
-ome contributions to the Sales.
-r to **PEP 8** for Python code.
-#achNaming `feaue/youg-eror`
+ contributions to the Sales.
+to **PEP 8** for Python .
+Naming 
