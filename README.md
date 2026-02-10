@@ -7,7 +7,7 @@ An intelligent system designed to forecast future sales using machine learning.
 ![Stars](https://img.shields.io/github/stars/hedi0/SalesPrediction?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/SalesPrediction?style=social)
 
-![example-preview-image](/preview_example.png)
+![PreviewImage](/images/preview_image_salesPrediction.jpg)
 
 ## 📖 Overview
 
