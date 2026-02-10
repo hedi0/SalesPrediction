@@ -134,6 +134,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
     *   Implement anomaly detection to flag unusual sales patterns.
     *   Improve documentation for easier onboarding and contribution.
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Contribution Guidelines
 We welcome contributions to the SalesPrediction project! To ensure a smooth collaboration, please follow these guidelines:
 ### Code Style
