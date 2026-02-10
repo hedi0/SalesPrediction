@@ -138,9 +138,9 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Contribution Guidelines
 We welcome contributions to the SalesPrediction project! To ensure a smooth collaboration, please follow these guidelines:
-### Code Style
-*   Adhere to **PEP 8** for Python code. We recomn clear, concise, and well-commented code.
-### Branch Naming Conventions
-*   For new features: `feature/youg-error`)
-*   For documentation updates: `doadme`
-### Pull Request 
+### CodeStyle
+*   r to **PEP 8** for Python code. We recomn clear, concise, and well-commented code.
+### BranchNaming Conventions
+* For newatures: `feature/youg-error`)
+    For documetation updates: `doadme`
+# Pull Reque
