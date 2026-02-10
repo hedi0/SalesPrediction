@@ -1,9 +1,10 @@
 import os
 import sys
 
-# ============================================================================
+"""
 # CRITICAL: Configure environment BEFORE importing PySpark
-# ============================================================================
+"""
+
 os.environ['PYSPARK_PYTHON'] = sys.executable
 os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 os.environ['PYSPARK_SUBMIT_ARGS'] = '--master local[*] pyspark-shell'
