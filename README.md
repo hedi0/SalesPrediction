@@ -141,5 +141,4 @@ We welcome contributions to the SalesPrediction project! To ensure a smooth coll
 ### Branch Naming Conventions
 *   For new features: `feature/youg-error`)
 *   For documentation updates: `doadme`
-### Pull Request Process
-1.  **Fork** t
+### Pull Request 
