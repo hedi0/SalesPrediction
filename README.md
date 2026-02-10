@@ -136,4 +136,4 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 ---------------------------------------------------------------------------
-## 🤝 Contribution Guideli
+## Con
