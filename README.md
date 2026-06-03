@@ -161,9 +161,9 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 e.g., LSTMs, Transformers) for enhanced accuracy in time-series fore
-    *   Integrate A/B testing framework for model comparison and ection.
-    *   Implement anomaly detection to flag unu
-    *   Improve documentation for easier onboardin
+    *   Integrate A/B teswork for model comparison and ection.
+    *   Implement anomaly detection to flag 
+    *   Improve documentation for eoardin
 
 
 
