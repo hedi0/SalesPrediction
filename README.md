@@ -160,8 +160,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-e.g., LSTMs, Transformers) for enhanceccuracy in time
-    *   Integrate A/B tesworkl cmparison and ection.
+e.g., LSTMs, Transformers) for enhancecy in
+    *   Integrate A/B tesworkl cmparison andion.
     *   Implement anomaly detection to fla
     *   Improve documentation for eoardin
 
