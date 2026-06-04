@@ -162,7 +162,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 e.g., LSTMs, Transformers) for enhan
     *   Int
-    *   Implement anoIm
+    *   Im
 
 
 
