@@ -134,33 +134,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
     *   Implement anomaly detection to flag unusual sales patterns.
     *   Improve documentation for easier onboarding and contribution.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e.g., LSTMs, Transformers) for e
+e.g., LSTMs, Transfo
 
 
 
