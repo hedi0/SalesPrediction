@@ -161,7 +161,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 e.g., LSTMs, Transformers) for enhancecy in
-    *   Integrate A/B tesworrison
+    *   Integrate A/
     *   Implement anomaly detecfla
     *   Improve docu
 
