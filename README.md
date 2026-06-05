@@ -147,7 +147,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 python inserats_data.your_sales_data.csv# Example
 Running a data ingestript (rctuscript name)# Example
 Running a data ingesticpt (replace witht name)
-python insert_data/pr_datfile s_data.csv
+python insert_d
 python insert_data/prs_data.csv
 
 
