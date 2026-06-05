@@ -145,7 +145,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 # Example: Running a data ingestion script (replace with actual script name)
 python insert_data/process_sales_data.py --file your_sales_data.csv# Example
-Running a data ingestion script (replace with actual script name)# Example
+Running a data ingestion script (rctual script name)# Example
 Running a data ingestion script (replace with actual script name)
 python insert_data/process_sales_data.py --file your_sales_data.csv
 python insert_data/process --file your_sales_data.csv
