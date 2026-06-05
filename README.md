@@ -133,3 +133,46 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
     *   Integrate A/B testing framework for model comparison and selection.
     *   Implement anomaly detection to flag unusual sales patterns.
     *   Improve documentation for easier onboarding and contribution.
+
+
+
+
+
+
+
+
+
+
+# Example: Running a data ingestion script (replace with actual script name)
+python insert_data/process_sales_data.py --file your_sales_data.csv# Example
+Running a data ingestion script (replace with actual script name)# Example
+Running a data ingestion script (replace with actual script name)
+python insert_data/process_sales_data.py --file your_sales_data.csv
+python insert_data/process_sales_data.py --file your_sales_data.csv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
