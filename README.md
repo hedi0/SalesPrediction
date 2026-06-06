@@ -146,7 +146,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 #mpe: unce
 pton ierats_daa.ou_
 nig a da inest
-unng a ta ticptwh)
+unng a ta ti
 phon i
 yton ert_
 
