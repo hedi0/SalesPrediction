@@ -143,12 +143,12 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-# Empe: Runce wth al sipt ne)
+# Empe: Runce wth apt ne)
 pton ierats_daa.ou_sle_daas
-Rnnig a data ingesrpt(rctuscrxa
-Runng a data ticpt e whtme)
-phon insert_d
-yton insert_
+Rnnig a data ingesrpt(rctu
+Runng a data ticpt e wh)
+phon inrt_d
+yton ert_
 
 
 
