@@ -144,11 +144,11 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 # Example: Runnlace with actual script name)
-python inserats_daa.ou_sle_daasv# Example
-Running a data ingestript (rctuscrtn# Exam
-Running a data ticpt e witht name)
-python insert_d
-python insert_
+pton ierats_daa.ou_sle_daasv# Example
+Rnnig a data ingesrpt(rctuscrxa
+Runng a data ticpt e witht name)
+phon insert_d
+yton insert_
 
 
 
