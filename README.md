@@ -146,7 +146,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 #**✨ Automated Data Ingestion:** Streamlined process for importing sales data from various sources into the system, ensuring data readiness for analysis.
 chine Learning Models:Utiladanced algorithms (e.g., regression me serisis) for accurate and reliable sales predictions.
 📈 Performance Evaluation:** Comprehensive tools to assess modedentify biases, and ensure the reliability of forecasting results.
- Future Sales Forecasting:** Generate actionabct future sales trends, empowering strang and resource allocation.
+ Future Sales Forecasting:** Generate actionabct future s empowering strang and resource allocation.
 Modular Codebase:** Designed for extensibility a integration, allowing for custom model additions and seamless incorporation into existing business
 
 
