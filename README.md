@@ -144,7 +144,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 #**✨ Automated Data Ingestion:** Streamlined process for importing sales data from various sources into the sdis.
-chine Learning Models:Utiladanced algorithms (e.g., regression me serisis) for accurate and reliable sales predictions.
+chine Learning Models:Utiladanced algorithms (e.g., regression me serisis) for accurate and rs predictions.
 📈 Performance Evaluation:** Comprehensive tools to assess m, and ensure the reliability of forets.
  Future Sales Forecasting:** Generate actionabct future s empowering strang andon.
 Modular Codebase:** Designed for extensibility a integration, allowinotion into ex
