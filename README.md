@@ -143,7 +143,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-#**✨ Automated Data Ingestion:** Streamlined process for importing sales data from various sources into the sdis.
+estion:** Streamlined process for importing sales data from various sources into the sdis.
 chine Learning Models:Utiladanced algorithms (e.g., regression me serisis) for accurate and rs predictions.
 📈 Performance Evaluation:** Comprehensive tools to assess m, and ensure the reliability of forets.
  Future Sales Forecasting:** Generate actionabct future s empowering strang andon.
