@@ -143,8 +143,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-estion:** Streamlined process for importing sales daou source
-chine Learning Models:Utid algorithms (e.g., re
+estion:** Streamlined process for les daou source
+chine Learning Models:Utid algorithms (e.g., r
 Performance Evaluation:** Compretools to assess m, 
 re Sales Forecasting:** Generate actionauture s e
 Modular Codebase:** Designed for extensibilite
