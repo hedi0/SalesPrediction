@@ -144,7 +144,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 estion:** Streamlined proces lesrce
-chine Learning Models:Utid algori(e.g., r
+chine Learning Models:Utid al
 Performance Evaluation:** Compretools 
 re Sales Forecasting:** Generate action
 Modular Codebase:** Designed for ext
