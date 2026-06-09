@@ -143,7 +143,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-estion:** Streamlined process for importing sales data from variou sources into the sdis.
+estion:** Streamlined process for importing sales data from variou source
 chine Learning Models:Utiladanced algorithms (e.g., regression me seictions.
 📈 Performance Evaluation:** Comprehensive tools to assess m, ae rel
  Future Sales Forecasting:** Generate actionabct future s empowerin
