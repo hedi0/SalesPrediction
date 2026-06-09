@@ -147,7 +147,7 @@ estion:** Streamlined process for les daou source
 chine Learning Models:Utid algorithms (e.g., r
 Performance Evaluation:** Compretools to assess m, 
 re Sales Forecasting:** Generate action
-Modular Codebase:** Designed for extensibilite
+Modular Codebase:** Designed for ext
 
 
 
