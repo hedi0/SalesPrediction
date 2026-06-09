@@ -147,7 +147,7 @@ estion:** Streamlined proces lesrce
 chine Learning Models:Utid al
 Performance Evaluation:** Cls 
 re Sales Forecasting:** Generate 
-Modular Codebase:** Designed for ext
+Modular Codebase:** Design
 
 
 
