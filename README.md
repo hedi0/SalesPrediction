@@ -144,8 +144,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 estion:** Streamlined process for importing sales daou source
-chine Learning Models:Utiladanced algorithms (e.g., regresctions
-Performance Evaluation:** Comprehensive tools to assess m, ae rel
+chine Learning Models:Utiladanced algorithms (e.g., re
+Performance Evaluation:** Comprehensive tools to assess m, 
 re Sales Forecasting:** Generate actionabct future s e
 Modular Codebase:** Designed for extensibility a inte
 
