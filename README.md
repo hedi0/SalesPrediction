@@ -143,7 +143,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-estion:** Streamlined proces les daou source
+estion:** Streamlined proces lesrce
 chine Learning Models:Utid algori(e.g., r
 Performance Evaluation:** Compretools 
 re Sales Forecasting:** Generate action
