@@ -145,8 +145,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 estitemlined pr
 chine Learnide
 Performance Evat
-re Sales FrngG
-Modular Codebs
+re Sales Fr
+Modulaebs
 
 
 
