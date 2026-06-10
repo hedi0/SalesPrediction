@@ -138,21 +138,10 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+FO] 2023-10-27 10:30:05 - Model trained on 1000 records.
+[INFO] 2023-10-27 10:30:10 - Generating predictions for next 30 days.
+[RESULT] Predictefor next month: $1,250,000
+[RESULT] Forecast saved to predictions/forecast_2023-11.csv
 
 
 
