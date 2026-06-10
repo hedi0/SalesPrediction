@@ -145,7 +145,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 estitemlpr
 chinearnide
 Performav
-re Sales Fr
+re S
 Modulaebs
 
 
