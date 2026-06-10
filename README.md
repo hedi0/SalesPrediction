@@ -142,7 +142,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-estitemlpr
+es
 chinearnide
 Ped
 
