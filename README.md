@@ -144,8 +144,8 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 estitemlined pr
 chine Learning Modela
-Performance Evaluati
-re Sales FrcstingG
+Performance Evat
+re Sales FrngG
 Modular Codebs
 
 
