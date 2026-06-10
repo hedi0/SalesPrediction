@@ -140,7 +140,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 FO] 2023-10-27 10:30:05 - Model 100
 [INFO] 2023-10-27 10:30:10 - Generatitions for n
-[RESULT] Predictefor next month: $1,250,000
+[RESULT] Predictefor next mon000
 [RESULT] Forecast saved to predi
 
 
