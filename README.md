@@ -140,7 +140,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 3
 [RESULT
-[RESULT]
+[RE
 
 
 
