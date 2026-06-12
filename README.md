@@ -139,7 +139,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 30:05 O] 
-[RESULT] Por next mon000
+[RESULT] Por nex
 [RESULT] Forecast save
 
 
