@@ -140,7 +140,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 30:05 O] 
 [RESULT
-[RESULT] Foreca
+[RESULT]
 
 
 
