@@ -138,7 +138,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-3vanced algorithms (e.g., regression mode series analysis) for accurate and reliable sales predictions.📈 Performance Evaluation:** Comprehensive tools to assess model accuracy, identify biases, and en reliability of forecasting results. ture Sales Forecasting: Generate actionable insights and predict future sales trends, empowering strategic planning and  allocdase: Designeensibility and easy integratE
+3vanced algorithms (e.g., regression mode series analysis) for accurate and reliable sales predictions.📈 Performance Evaluation:** Comprehensive tools to assess model accuracy, identify biases, and en reliability of forecasting results. ture Sales Forecasting: Generate actionable insights and predict future sales trends, empowering strategic planning and  allocdase: Designeensibind easy integratE
 
 
 
