@@ -138,7 +138,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-3vanced algorithms (e.g., regression moeries analysis) forreliab predictiormance Evaluatioehensive tools to assess model accuracy, identify biases, and en reliabilitecastlts. ture Sales Forecastiactionable insights and predict future sales trends, empowg strategic planning and  allocdase: Desig
+3vanced algorithms (e.g., regression moeries analysis) forreliab predictiormaEvaluatehensive tools to assess model accuracy, identify biases, and en reliabilitecastlts. ture Sales Forecastiactionable insights and predict future sales trends, empowg strategic planning and  allocdase: Desig
 
 
 
