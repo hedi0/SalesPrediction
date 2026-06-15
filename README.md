@@ -138,7 +138,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-3vancealgorithm(e.g.regressiooeriesanalysi)forreliabpredictiormaEvaluatehensivetotoassessmodelaccuracy,identifybiesandenmmeliabilitecastlts.tureSales Forecastiactionablinsighanedturesalestreowgstrategicplanninganallocdase:Desig
+3vancealgorithm(e.g.regressiooeriesanalysi)forreliabpredictiormaEvaluetotoassessmodelaccuracy,identifybiesandenmmeliabilitecastlts.tureSales Forecastiactionablinsighanedturesalestreowgstrategicplanninganallocdase:Desig
 
 
 
