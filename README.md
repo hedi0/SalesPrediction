@@ -136,7 +136,7 @@ The SalesPrediction project is continuously evolving. Here are some of our upcom
 
 
 
-gressiooeriesanalysi)forreliabpredicluetotoassessmodelactifybabilitecastlts.tureSales Forecastiactionablinsighanedturesalestreowgstrategicplanning
+oeriesanalysi)forreliabpredicluetotoassessmodelactifybabilitecastlts.tureSales Forecastiactionablinsighanedturesalestreowgstrategicplanning
 
 
 
